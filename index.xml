@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Bianca Tuliao</title>
-    <link>https://bltuliao.github.io/</link>
+    <link>https://bttuliao.github.io/</link>
     <description>Recent content on Bianca Tuliao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 04 Feb 2023 00:02:17 -0500</lastBuildDate><atom:link href="https://bltuliao.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 04 Feb 2023 00:02:17 -0500</lastBuildDate><atom:link href="https://bttuliao.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kickstarting My Career Remotely</title>
-      <link>https://bltuliao.github.io/blog/kickstarting-my-career-remotely/</link>
+      <link>https://bttuliao.github.io/blog/kickstarting-my-career-remotely/</link>
       <pubDate>Sat, 04 Feb 2023 00:02:17 -0500</pubDate>
       
-      <guid>https://bltuliao.github.io/blog/kickstarting-my-career-remotely/</guid>
+      <guid>https://bttuliao.github.io/blog/kickstarting-my-career-remotely/</guid>
       <description>Things that helped me navigate through my first software engineering job right out of college.</description>
     </item>
     
     <item>
       <title>Career</title>
-      <link>https://bltuliao.github.io/career/</link>
+      <link>https://bttuliao.github.io/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bltuliao.github.io/career/</guid>
+      <guid>https://bttuliao.github.io/career/</guid>
       <description>An overview of Bianca&amp;rsquo;s work and volunteer experience in the tech industry</description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://bltuliao.github.io/projects/</link>
+      <link>https://bttuliao.github.io/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://bltuliao.github.io/projects/</guid>
+      <guid>https://bttuliao.github.io/projects/</guid>
       <description>A corner of the internet showcasing Bianca&amp;rsquo;s personal projects</description>
     </item>
     
