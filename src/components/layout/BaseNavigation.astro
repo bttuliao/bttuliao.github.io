@@ -5,19 +5,20 @@ interface Props {
 
 const navigationItems = [
   { name: 'Home', url: '/' },
+  { name: 'Career', url: '/career/' },
   { name: 'Blog', url: '/blog/' },
 ];
 
 const socialIcons = [
   {
     name: 'GitHub',
-    url: 'https://github.com/eliancodes/brutal',
+    url: 'https://github.com/bttuliao',
     icon: 'i-uil-github',
   },
   {
-    name: 'Twitter',
-    url: 'https://www.twitter.com/eliancodes',
-    icon: 'i-uil-twitter',
+    name: 'Linkedin',
+    url: 'https://www.linkedin.com/in/biancatuliao/',
+    icon: 'i-uil-linkedin',
   },
   { name: 'RSS', url: '/feed.xml', icon: 'i-uil-rss' },
 ];
@@ -28,7 +29,7 @@ const { pageTitle } = Astro.props;
 <header class='border-b-4 border-black flex justify-between p-6 items-center'>
   {pageTitle && <h1 class='hidden'>{pageTitle}</h1>}
   <a href='/' title='Back to Home'>
-    <p class='righteous md:text-5xl'>Brutal</p>
+    <p class='righteous md:text-5xl'>Bianca Tuliao</p>
   </a>
   <nav class='hidden md:inline-block'>
     <h2 class='hidden'>Navigation</h2>
@@ -53,7 +54,7 @@ const { pageTitle } = Astro.props;
               href={item.url}
               class='hover:text-green hover:underline transition-all duration-150 ease-in-out'
               target='_blank'
-              title={`'See @ElianCodes on ${item.name}`}
+              title={`'See Bianca's ${item.name}`}
             >
               <div class:list={[item.icon, 'w-6 h-6']} />
             </a>

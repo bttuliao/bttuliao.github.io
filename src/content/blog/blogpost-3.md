@@ -1,47 +1,29 @@
 ---
-title: Blogpost 3
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
-pubDate: 2023-02-14 23:49
-author: Elian Van Cutsem
-tags: 
-  - CSS
-  - Astro
-  - Vite
-imgUrl: '../../assets/astro.jpeg'
-layout: ../../layouts/BlogPost.astro
+title: Raspberry Pi DDR Dance Mat
+pubDate: July 12, 2024
+author: "Bianca Tuliao"
+tags:
+  - Project
+  - Raspberry Pi
+  - Hardware
+imgUrl: '../../assets/ddr1.jpg'
+description: Crocheting a DDR mat and connecting it to a Raspberry Pi to use it as a controller.
+layout: '../../layouts/BlogPost.astro'
 ---
 
-## Deorum petiit ignis
+## An Iconic Rhythm Game
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+Before I started playing rhythm games like Sound Voltex and osu, I played Dance Dance Revolution. This project was nostalgic and satisfied my curiosity to learn how to make something with a Raspberry Pi. I've been meaning to mess around with a Raspberry Pi for a while and was excited to see this <a target="_blank" href="https://www.popsci.com/story/diy/build-arcade-dance-game/">tutorial</a>.
 
-## Iovis late orbem Perseus sunt
+## Learnings
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+This was a fun project for me to combine the things I enjoy: crochet and technology. I used the Circuit Playground Express instead of the classic listed in the tutorial, crocheted the dance mat, and had to troubleshoot the code in the dance controller software since the capacitive touch wasn’t working initially for me. I used Premier's Anti-Pilling Everyday Worsted yarn and I made the pattern using <a href="https://www.stitchfiddle.com/en" target="_blank">Stitch Fiddle</a>.
+![Debugging code for Raspberry Pi](../../assets/ddr2.jpg)
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+Looking back, I should have considered the placement of the conductive thread from the dance mat to the terminal block more thoroughly because the up and down arrows were interfering with each other (taped the excess threads away from each other which worked but not the most elegant solution lol). This time, I wanted to get that MVP going and I was excited to start gaming with it.
+![Crocheted Dance Dance Revolution mat connected to Raspberry Pi](../../assets/ddr3.jpg)
 
-## Longum minus sic saepe
+## Demo
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
-
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
-
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+Here's a quick demo! Maybe I'll crochet a controller for the rhythm game Taiko no Tatsujin next..
+<video src="/ddrvid.mp4" width="320" height="240" controls></video>

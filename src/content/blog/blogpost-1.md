@@ -1,47 +1,32 @@
 ---
-title: Blogpost 1
-pubDate: 11/09/2022 14:25
-author: "Elian Van Cutsem"
+title: 3D Printed StarCraft2 Probe
+pubDate: Feb 28, 2020
+author: "Bianca Tuliao"
 tags:
-  - JavaScript
-  - Astro
-  - UnoCSS
-imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+  - Project
+  - 3D Printing
+  - Hardware
+imgUrl: '../../assets/3dprobius1.jpg'
+description: My introduction to 3D printing by creating a probe from StarCraft2 at Temple's Makerspace.
 layout: '../../layouts/BlogPost.astro'
 ---
 
-## Deorum petiit ignis
+## The Perfect Combo
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+I've been following the game StarCraft2 since 2016 and although I haven't played consistently, I've always made time to watch StarCraft Esports--tournaments like WCS, ESL, Cheesadelphia, and my favorite: HomeStory Cup. When I do play, I play protoss so when I saw a probe on <a target="_blank" href="https://www.thingiverse.com/thing:750390">Thingiverse</a> I added this project to the top of my list. This was my first project 3D printing and it was neat to learn how it worked.
 
-## Iovis late orbem Perseus sunt
+## Learnings
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+The new library at my university opened recently and it houses the Makerspace. All the equipment was provided and the staff walked me through some training on how to use the 3D printers. They were so friendly, I really appreciate them. So I downloaded the probe STL file, used the slicer to set parameters like its size and saved the G-code to an SD card. Placed it in an unoccupied printer and watched the magic happen. 
+![3D printer in the process of printing a StarCraft2 probe](../../assets/3dprobius1.jpg)
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+Used some pliers to get rid of the support pieces, then headed to Blick for painting supplies. After spending time studying for my classes, it was relaxing to end the night with painting.
+![Painting the probe with its signature colors, gold and blue](../../assets/3dprobius2.jpg)
 
-## Longum minus sic saepe
+## Probius in Action
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+And here's the finished product! I will admit certain areas are a bit bumpy, so the next thing I want to learn how to do properly is sanding my prints.
+![Painted probius](../../assets/3dprobius3.jpg)
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
-
-## Geminas namque quod referitur argenteus aderat superstes
-
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
-
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+I made another one for my friend. I'm trying to make a probe army, but of course I need to keep an eye out on my supply.
+![Probius' older brother](../../assets/3dprobius4.jpg)
