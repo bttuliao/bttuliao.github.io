@@ -16,7 +16,7 @@ const { title, description, classList, pageTitle, ogImage } = Astro.props;
 ---
 
 <html lang='en' class='h-full'>
-  <BaseHead ogImage={ogImage} title={title} description={description} />
+  <BaseHead title={title} description={description} />
 
   <body class:list={[classList]}>
     <BaseNavigation {pageTitle} />
